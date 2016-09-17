@@ -1,0 +1,6 @@
+﻿  cWrapper.cpp
+c:\users\jswick\documents\visual studio 2015\projects\cpplibinc\cpplibinc\cwrapper.h(9): warning C4099: 'MyClass': type name first seen using 'class' now seen using 'struct'
+  c:\users\jswick\documents\visual studio 2015\projects\cpplibinc\cpplibrary\myclass.h(15): note: see declaration of 'MyClass'
+  main.c
+  CppLibInC.vcxproj -> C:\Users\jswick\Documents\Visual Studio 2015\Projects\CppLibInC\x64\Debug\CppLibInC.exe
+  CppLibInC.vcxproj -> C:\Users\jswick\Documents\Visual Studio 2015\Projects\CppLibInC\x64\Debug\CppLibInC.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  myClass.cpp
+c:\users\jswick\documents\visual studio 2015\projects\cpplibinc\cpplibrary\myclass.cpp(3): warning C4273: 'MyClass::int_set': inconsistent dll linkage
+  c:\users\jswick\documents\visual studio 2015\projects\cpplibinc\cpplibrary\myclass.h(19): note: see previous definition of 'int_set'
+c:\users\jswick\documents\visual studio 2015\projects\cpplibinc\cpplibrary\myclass.cpp(7): warning C4273: 'MyClass::int_get': inconsistent dll linkage
+  c:\users\jswick\documents\visual studio 2015\projects\cpplibinc\cpplibrary\myclass.h(21): note: see previous definition of 'int_get'
+     Creating library C:\Users\jswick\Documents\Visual Studio 2015\Projects\CppLibInC\x64\Debug\CppLibrary.lib and object C:\Users\jswick\Documents\Visual Studio 2015\Projects\CppLibInC\x64\Debug\CppLibrary.exp
+  CppLibrary.vcxproj -> C:\Users\jswick\Documents\Visual Studio 2015\Projects\CppLibInC\x64\Debug\CppLibrary.dll
+  CppLibrary.vcxproj -> C:\Users\jswick\Documents\Visual Studio 2015\Projects\CppLibInC\x64\Debug\CppLibrary.pdb (Partial PDB)
