@@ -1,0 +1,5 @@
+c:\users\jswick\documents\visual studio 2015\Projects\CppCLIWrapper\YahooDLL\bin\Debug\YahooDLL.dll
+c:\users\jswick\documents\visual studio 2015\Projects\CppCLIWrapper\YahooDLL\bin\Debug\YahooDLL.pdb
+c:\users\jswick\documents\visual studio 2015\Projects\CppCLIWrapper\YahooDLL\obj\Debug\YahooDLL.csprojResolveAssemblyReference.cache
+c:\users\jswick\documents\visual studio 2015\Projects\CppCLIWrapper\YahooDLL\obj\Debug\YahooDLL.dll
+c:\users\jswick\documents\visual studio 2015\Projects\CppCLIWrapper\YahooDLL\obj\Debug\YahooDLL.pdb

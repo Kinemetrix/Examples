@@ -1,0 +1,8 @@
+﻿  CppCLRLibrary.cpp
+c:\users\jswick\documents\visual studio 2015\projects\cppcliwrapper\cppclrlibrary\yahoodll.dll : warning C4945: 'YahooAPI': cannot import symbol from 'c:\users\jswick\documents\visual studio 2015\projects\cppcliwrapper\cppclrlibrary\yahoodll.dll': as 'YahooAPI' has already been imported from another assembly 'YahooDLL'
+  c:\users\jswick\documents\visual studio 2015\projects\cppcliwrapper\cppclrlibrary\yahoodll.dll: note: first seen type is used; re-order imported assemblies to use the current type
+  c:\users\jswick\documents\visual studio 2015\projects\cppcliwrapper\cppclrlibrary\yahoodll.dll: note: This diagnostic occurred while importing type '.YahooAPI' from assembly 'YahooDLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+     Creating library c:\users\jswick\documents\visual studio 2015\Projects\CppCLIWrapper\Debug\CppCLRLibrary.lib and object c:\users\jswick\documents\visual studio 2015\Projects\CppCLIWrapper\Debug\CppCLRLibrary.exp
+  CppCLRLibrary.vcxproj -> c:\users\jswick\documents\visual studio 2015\Projects\CppCLIWrapper\Debug\CppCLRLibrary.dll
+  CppCLRLibrary.vcxproj -> c:\users\jswick\documents\visual studio 2015\Projects\CppCLIWrapper\Debug\CppCLRLibrary.pdb (Partial PDB)
