@@ -6,4 +6,4 @@ Example Projects
 
 3. HostCLR - hosts the common language runtime in native C++ to execute code in a C# DLL
 
-4. UnmanagedExports - exports C# class methods into C/C++.  It does NOT export classes.
+4. UnmanagedExports - exports C# class METHODS into C/C++.  It does NOT export classes.
