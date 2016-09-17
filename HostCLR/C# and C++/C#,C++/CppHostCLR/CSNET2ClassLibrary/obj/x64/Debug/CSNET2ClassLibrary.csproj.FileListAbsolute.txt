@@ -1,0 +1,5 @@
+C:\Users\jswick\Downloads\HostCLR\C# and C++\C#,C++\Debug\CSNET2ClassLibrary.dll
+C:\Users\jswick\Downloads\HostCLR\C# and C++\C#,C++\Debug\CSNET2ClassLibrary.pdb
+C:\Users\jswick\Downloads\HostCLR\C# and C++\C#,C++\CppHostCLR\CSNET2ClassLibrary\obj\x64\Debug\CSNET2ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jswick\Downloads\HostCLR\C# and C++\C#,C++\CppHostCLR\CSNET2ClassLibrary\obj\x64\Debug\CSNET2ClassLibrary.dll
+C:\Users\jswick\Downloads\HostCLR\C# and C++\C#,C++\CppHostCLR\CSNET2ClassLibrary\obj\x64\Debug\CSNET2ClassLibrary.pdb

@@ -1,0 +1,10 @@
+c:\users\jswick\documents\visual studio 2015\Projects\UnmanagedExportsBlankSlate\UnmanagedExportsBlankSlate\bin\x64\Debug\UnmanagedExportsBlankSlate.dll
+c:\users\jswick\documents\visual studio 2015\Projects\UnmanagedExportsBlankSlate\UnmanagedExportsBlankSlate\bin\x64\Debug\UnmanagedExportsBlankSlate.pdb
+c:\users\jswick\documents\visual studio 2015\Projects\UnmanagedExportsBlankSlate\UnmanagedExportsBlankSlate\obj\x64\Debug\CSLibrary.csprojResolveAssemblyReference.cache
+c:\users\jswick\documents\visual studio 2015\Projects\UnmanagedExportsBlankSlate\UnmanagedExportsBlankSlate\obj\x64\Debug\UnmanagedExportsBlankSlate.dll
+c:\users\jswick\documents\visual studio 2015\Projects\UnmanagedExportsBlankSlate\UnmanagedExportsBlankSlate\obj\x64\Debug\UnmanagedExportsBlankSlate.pdb
+C:\Users\jswick\Source\Repos\UnmanagedExports\UnmanagedExportsBlankSlate\UnmanagedExportsBlankSlate\bin\x64\Debug\UnmanagedExportsBlankSlate.dll
+C:\Users\jswick\Source\Repos\UnmanagedExports\UnmanagedExportsBlankSlate\UnmanagedExportsBlankSlate\bin\x64\Debug\UnmanagedExportsBlankSlate.pdb
+C:\Users\jswick\Source\Repos\UnmanagedExports\UnmanagedExportsBlankSlate\UnmanagedExportsBlankSlate\obj\x64\Debug\CSLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jswick\Source\Repos\UnmanagedExports\UnmanagedExportsBlankSlate\UnmanagedExportsBlankSlate\obj\x64\Debug\UnmanagedExportsBlankSlate.dll
+C:\Users\jswick\Source\Repos\UnmanagedExports\UnmanagedExportsBlankSlate\UnmanagedExportsBlankSlate\obj\x64\Debug\UnmanagedExportsBlankSlate.pdb
